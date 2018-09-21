@@ -1,1 +1,1 @@
-# Ninja
+# NINJA
